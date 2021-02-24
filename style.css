@@ -62,4 +62,10 @@
     background-color: red;
 }
 
-
+  body { 
+    background: url(https://image.shutterstock.com/z/stock-photo-young-frustrated-exhausted-woman-laid-her-head-down-on-the-table-sit-work-at-white-desk-with-1188695488.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
