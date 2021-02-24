@@ -50,3 +50,16 @@
     color: white;
     text-align: center;
  }
+
+ .para1{
+    font-family: 'Mukta', sans-serif;
+ }
+ .para2{
+    font-family: 'Roboto', sans-serif;
+ }
+
+ div ul li a:hover {
+    background-color: red;
+}
+
+
